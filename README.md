@@ -16,6 +16,6 @@
 - It's for a YSWS called 3AM thats about to end which is why this is 70% done.
 - This was a nice refresher on HTML and CSS so yeah 
 
-#Known Limitations
+# Known Limitations
 - The fact list topics on the list will soon show unique facts based on each of those topics.
 - The Share a Fact is currently not functionable yet the frontend design of it is done 
